@@ -1,7 +1,7 @@
 # Logistic-Regression
-Linear Regression without built-in functions.
+Logistic Regression without built-in functions.
 
-This contains the following with respect to Diabetes Dataset of Sklearn:
+This contains the following with respect to Iris Dataset of Sklearn:
 
 1. Scatter plot of raw data
 2. Sigmoid Function 
